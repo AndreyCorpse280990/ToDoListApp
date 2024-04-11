@@ -15,8 +15,6 @@ namespace ToDoListApp
         public MainForm()
         {
             InitializeComponent();
-
-            //
             priorityComboBox.SelectedIndex = 0;
         }
 
