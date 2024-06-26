@@ -82,9 +82,5 @@ namespace ToDoListApp
                 MessageBox.Show("Выберите дело для редактирования.");
             }
         }
-
     }
-
-
 }
-
